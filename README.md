@@ -20,7 +20,7 @@ If you would like to compile and run CAI yourself, please follow the following i
 
 ![Step3](InstructionImages/3Findappsettings.json.png)
 
-  - Paste your bot token between the double-quotes. Feel free to customize the bot prefix as well.
+  - Paste your bot token between the double-quotes. If you don't have your bot token yet, go to the [Discord Developer Portal](https://discord.com/developers/applications) and set up a bot. Feel free to customize the bot prefix as well.
 
 ![Step4](InstructionImages/4InputTokenInappsettings.json.png)
 
