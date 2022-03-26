@@ -22,5 +22,7 @@ jobs:
       working-directory: CAIV2/CAIV2
     - name: Build
       run: dotnet build --no-restore
+      working-directory: CAIV2/CAIV2
     - name: Test
       run: dotnet test --no-build --verbosity normal
+      working-directory: CAIV2/CAIV2
