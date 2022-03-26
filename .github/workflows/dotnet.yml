@@ -19,7 +19,7 @@ jobs:
         dotnet-version: 5.0.x
     - name: Restore dependencies
       run: dotnet restore
-      working-directory: CAI-Discord-Bot/CAIV2
+      working-directory: CAIV2
     - name: Build
       run: dotnet build --no-restore
     - name: Test
