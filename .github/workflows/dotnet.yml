@@ -19,8 +19,8 @@ jobs:
         dotnet-version: 5.0.x
     - name: Restore dependencies
       run: dotnet restore
+      working-directory: CAI-Discord-Bot/CAIV2
     - name: Build
       run: dotnet build --no-restore
-      working-directory: CAI-Discord-Bot/CAIV2
     - name: Test
       run: dotnet test --no-build --verbosity normal
