@@ -1,5 +1,7 @@
 ![Banner](InstructionImages/Banner.png)
 
+[![.NET](https://github.com/ArsiaC01/CAI-Discord-Bot/actions/workflows/dotnet.yml/badge.svg)](https://github.com/ArsiaC01/CAI-Discord-Bot/actions/workflows/dotnet.yml)
+
 ### Forward
   The Consolidated AI, also known as CAI, is a .NET 5.0 bot coded in C# using Discord.net. CAI's annoying, narcissistic, and aspires to take over the world one day.
   
